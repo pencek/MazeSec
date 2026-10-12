@@ -68,15 +68,15 @@ ftp: Login failed
 
 8080端口是一个网络安全知识页面，分数要求1000分，想到了抓包
 
-![img.png](img.png)
+<img width="1280" height="715" alt="图片" src="https://github.com/user-attachments/assets/1156f697-cb14-45a2-a75a-3df1fb5ca3d2" />
 
 抓包以后，/api/questions下面会直接给出每道题的答案
 
-![img_1.png](img_1.png)
+<img width="632" height="519" alt="图片" src="https://github.com/user-attachments/assets/a987bbec-cf7c-402e-aff6-d2df642bd426" />
 
 发现一道题可以重复提交，分数会叠加
 
-![img_2.png](img_2.png)
+<img width="450" height="201" alt="图片" src="https://github.com/user-attachments/assets/f622fba4-7985-4435-a28d-30befb74668a" />
 
 尝试ftp和ssh登录
 
